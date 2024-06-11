@@ -1,0 +1,95 @@
+.pic{
+    width: 200px;
+    height: 200px;
+    
+}
+
+#h1{
+    text-align: center;
+    color: rgba(16, 16, 16, 0.942);
+    font-weight: 500;
+    font-size: 4rem;
+    font-weight: bolder;
+    font-style: oblique;
+    text-decoration:underline;
+    margin: 20px;
+}
+
+.Names{
+    text-align: center;
+    color: red;
+    font-family:"roboto";
+    font-weight: bold;
+    font-style:inherit;
+ }
+ 
+
+
+.div1{
+ background-color:rgb(243, 221, 192);
+ text-align:center;
+ width: 400px;
+ height: 600px;
+ border: 10px solid rgb(122, 205, 162);
+ display: inline-block;
+ text-align: justify;
+ overflow: auto;
+ padding: 5px;
+ border-radius:20px;
+ margin:20px;
+ box-shadow: 10px 10px 10px rgb(160, 156, 156);
+ box-sizing:content-box;
+ 
+ 
+}
+
+#tata{
+    background-image: url("./Marvel/TCS.NS.png");
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position: center bottom;
+    background-size:contain;
+    background-origin: content-box;
+
+}
+
+#mukesh{
+    background-image: url("./Marvel/Reliance-Industries-Limited.png");
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position: center bottom;
+    background-size:contain;
+    background-origin: content-box;
+}
+
+#Anand{
+    background-image: url("https://1000logos.net/wp-content/uploads/2020/04/Mahindra-Logo-2021.png");
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position: center;
+    background-size:contain;
+    background-position:center bottom;
+    background-origin: content-box;
+
+}
+
+#murty{
+    background-image: url("./Marvel/Infosys.png");
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position: center bottom;
+    background-size:contain;
+    background-origin: content-box;
+}
+
+h2::first-letter{
+    color:rgb(6, 14, 22);
+    font-size: 2rem;
+}
+
+
+.divcontainer{
+    background-image:url("https://wallpapercave.com/wp/wp7231671.jpg");
+    background-size: cover;
+    
+}
